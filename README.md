@@ -57,5 +57,11 @@ npm start
     PageLayout styles added
     App styles added
 ```
+   though should be:
+```
+    App styles added
+    PageLayout styles added
+    Page1 styles added    
+```
 
 Also you could inspect html and see styles in head of the page
