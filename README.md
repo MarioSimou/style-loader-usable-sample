@@ -46,12 +46,10 @@ cd style-loader-usable-sample
 ```
 npm install
 ``` 
-- start project:
+- start project - it will open browser with the app's page:
 ```
 npm start
 ```
-it opens browser with the app's page.
-
 - open devtools in console tab and have a look on a reversed order of rendered components - it would be:
 
 ```
