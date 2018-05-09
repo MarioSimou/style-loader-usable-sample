@@ -50,6 +50,8 @@ npm install
 ```
 npm start
 ```
+it opens browser with the app's page.
+
 - open devtools in console tab and have a look on a reversed order of rendered components - it would be:
 
 ```
