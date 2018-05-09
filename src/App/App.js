@@ -15,13 +15,13 @@ class App extends React.Component {
         if (this.count === 1) {
             styles.use();
 
-            console.log('Page1 styles added');
+            console.log('App styles added');
         }
     }
 
     componentWillUnmount() {
         item.unuse();
-        console.log('Page1 styles removed');
+        console.log('App styles removed');
     }
 
     render(){

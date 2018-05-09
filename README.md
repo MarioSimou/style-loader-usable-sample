@@ -54,6 +54,6 @@ npm start
 
 ```
     Page1 styles added
-    PageLayout.js:40 PageLayout styles added
-    App.js:40 Page1 styles added
+    PageLayout styles added
+    App styles added
 ```
