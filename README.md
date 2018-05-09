@@ -3,8 +3,8 @@ Sample of working style-loader in usable mode
 
 This sample shows how is working style-loader' use()/unuse() methods.
 
-React renders components in reverse mode - from inner to most outer, so styles applies in that order too.
-This behavior breaks default behavior - applying styles from most outer component to inner.
+React renders components in reverse mode - from inner to most outer, so styles are applied in that order too.
+This breaks default behavior - applying styles from most outer component to inner.
 
 In this sample App component styles declare color variable: 
 
