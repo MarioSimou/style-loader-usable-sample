@@ -57,7 +57,7 @@ npm start
     PageLayout styles added
     App styles added
 ```
-   though should be:
+   although it should be the opposite:
 ```
     App styles added
     PageLayout styles added
