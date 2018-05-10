@@ -54,9 +54,9 @@ npm start
 - open devtools in console tab and have a look on a reversed order of rendered components - it would be:
 
 ```
-    Page1 styles added
-    PageLayout styles added
-    App styles added
+    Page1: styles added
+    PageLayout: styles added
+    App: styles added
 ```
 
 
