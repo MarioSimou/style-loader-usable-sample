@@ -6,7 +6,7 @@ This sample shows how is working style-loader' use()/unuse() methods.
 React renders components in reverse mode - from inner to most outer, so styles are applied in that order too.
 This breaks default behavior - applying styles from most outer component to inner.
 
-In this application a stylesheet of App component is declaring color variable: 
+In this application the stylesheet of App component is declaring color variable: 
 
 ```
 :root {
