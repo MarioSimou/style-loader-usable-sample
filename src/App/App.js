@@ -5,12 +5,12 @@ import styles from './app.css';
 class App extends React.Component {
     componentDidMount() {
         styles.use();
-        console.log('App styles added');
+        console.log('App: styles added');
     }
 
     componentWillUnmount() {
         styles.unuse();
-        console.log('App styles removed');
+        console.log('App: styles removed');
     }
 
     render(){

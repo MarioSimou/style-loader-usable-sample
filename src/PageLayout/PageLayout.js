@@ -5,12 +5,12 @@ import styles from './pageLayout.css';
 class PageLayout extends React.Component {
     componentDidMount() {
         styles.use();
-        console.log('PageLayout styles added');
+        console.log('PageLayout: styles added');
     }
 
     componentWillUnmount() {
         styles.unuse();
-        console.log('PageLayout styles removed');
+        console.log('PageLayout: styles removed');
     }
 
     render(){

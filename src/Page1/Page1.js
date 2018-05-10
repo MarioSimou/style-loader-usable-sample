@@ -4,12 +4,12 @@ import styles from './page1.css';
 class Page1 extends React.Component {
     componentDidMount() {
         styles.use();
-        console.log('Page1 styles added');
+        console.log('Page1: styles added');
     }
 
     componentWillUnmount() {
         styles.unuse();
-        console.log('Page1 styles removed');
+        console.log('Page1: styles removed');
     }
 
     render(){
