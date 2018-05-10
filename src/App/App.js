@@ -9,7 +9,7 @@ class App extends React.Component {
     }
 
     componentWillUnmount() {
-        item.unuse();
+        styles.unuse();
         console.log('App styles removed');
     }
 

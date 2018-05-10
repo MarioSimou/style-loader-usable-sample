@@ -9,7 +9,7 @@ class PageLayout extends React.Component {
     }
 
     componentWillUnmount() {
-        item.unuse();
+        styles.unuse();
         console.log('PageLayout styles removed');
     }
 

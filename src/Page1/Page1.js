@@ -8,7 +8,7 @@ class Page1 extends React.Component {
     }
 
     componentWillUnmount() {
-        item.unuse();
+        styles.unuse();
         console.log('Page1 styles removed');
     }
 
